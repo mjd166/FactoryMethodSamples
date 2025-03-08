@@ -1,0 +1,14 @@
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\bin\Debug\net8.0\NotificationService.exe
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\bin\Debug\net8.0\NotificationService.deps.json
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\bin\Debug\net8.0\NotificationService.runtimeconfig.json
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\bin\Debug\net8.0\NotificationService.dll
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\bin\Debug\net8.0\NotificationService.pdb
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\NotificationService.dll
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\NotificationService.pdb
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\NotificationService.genruntimeconfig.cache
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll

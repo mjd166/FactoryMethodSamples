@@ -1,0 +1,14 @@
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\bin\Debug\net8.0\MessageSenderService.exe
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\bin\Debug\net8.0\MessageSenderService.deps.json
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\bin\Debug\net8.0\MessageSenderService.runtimeconfig.json
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\bin\Debug\net8.0\MessageSenderService.dll
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\bin\Debug\net8.0\MessageSenderService.pdb
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\MessageSenderService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\MessageSenderService.AssemblyInfoInputs.cache
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\MessageSenderService.AssemblyInfo.cs
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\MessageSenderService.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\MessageSenderService.dll
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\refint\MessageSenderService.dll
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\MessageSenderService.pdb
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\MessageSenderService.genruntimeconfig.cache
+D:\Projects\Learning\DesignPatterns\FactoryMethodSamples\MessageSenderService\obj\Debug\net8.0\ref\MessageSenderService.dll
